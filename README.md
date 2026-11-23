@@ -12,10 +12,10 @@ How I work: I set the requirements and check the results. AI tools write most of
 ## Projects
 
 - **AANKA PeopleOS**: an internal staff-records and compliance system for AANKA Group. It is in production and used by the admin team. The repository is private because it is an internal HR system. [Sign-in page](https://people.aankagroup.com)
-- **AANKA Group website**: [aankagroup.com](https://aankagroup.com)
+- **AANKA Group website**: [aankagroup.com](https://aankagroup.com). Repository: [aanka-group-website](https://github.com/AyaanmandeliA/aanka-group-website).
 - **AANKA Contracting website**: [aankacontracting.com](https://aankacontracting.com)
-- **Chuski Lab website**: the site for my family's dessert counter. [chuskilab.com](https://chuskilab.com)
-- **Khau Galli catering builder**: [catering.thekhaugalli.com](https://catering.thekhaugalli.com)
+- **Chuski Lab website**: the site for my family's dessert counter. [chuskilab.com](https://chuskilab.com). Repository: [chuski-lab-website](https://github.com/AyaanmandeliA/chuski-lab-website).
+- **Khau Galli catering builder**: [catering.thekhaugalli.com](https://catering.thekhaugalli.com). Repository: [khau-galli-catering](https://github.com/AyaanmandeliA/khau-galli-catering).
 - **Khau Galli gift catalogue**: [catalog.thekhaugalli.com](https://catalog.thekhaugalli.com)
 - **Nightly restaurant sales report for Khau Galli**: live and internal.
 - **ACCA Performance Engine**: a feedback tool for ACCA practice answers. It is an invited beta, with a [public demo on fictional data](https://acca-demo.ayaanmandelia.com/).
