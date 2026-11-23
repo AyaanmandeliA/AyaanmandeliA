@@ -12,7 +12,7 @@ How I work: I set the requirements and check the results. AI tools write most of
 ## Projects
 
 - **AANKA PeopleOS**: an internal staff-records and compliance system for AANKA Group. It is in production and used by the admin team. The repository is private because it is an internal HR system. [Sign-in page](https://people.aankagroup.com)
-- **AANKA Group website**: [aankagroup.com](https://aankagroup.com). Repository: [aanka-vision-craft](https://github.com/AyaanmandeliA/aanka-vision-craft).
+- **AANKA Group website**: [aankagroup.com](https://aankagroup.com)
 - **AANKA Contracting website**: [aankacontracting.com](https://aankacontracting.com)
 - **Chuski Lab website**: the site for my family's dessert counter. [chuskilab.com](https://chuskilab.com)
 - **Khau Galli catering builder**: [catering.thekhaugalli.com](https://catering.thekhaugalli.com)
