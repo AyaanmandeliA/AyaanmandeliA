@@ -17,7 +17,7 @@ How I work: I set the requirements and check the results. AI tools write most of
 - **Chuski Lab website**: the site for my family's dessert counter. [chuskilab.com](https://chuskilab.com). Repository: [chuski-lab-website](https://github.com/AyaanmandeliA/chuski-lab-website).
 - **Khau Galli catering builder**: [catering.thekhaugalli.com](https://catering.thekhaugalli.com). Repository: [khau-galli-catering](https://github.com/AyaanmandeliA/khau-galli-catering).
 - **Personal website**: [ayaanmandelia.com](https://ayaanmandelia.com). Repository: [ayaanmandelia-com](https://github.com/AyaanmandeliA/ayaanmandelia-com).
-- **Khau Galli gift catalogue**: [catalog.thekhaugalli.com](https://catalog.thekhaugalli.com)
+- **Khau Galli gift catalogue**: [catalog.thekhaugalli.com](https://catalog.thekhaugalli.com). Repository: [khau-galli-gift-catalogue](https://github.com/AyaanmandeliA/khau-galli-gift-catalogue).
 - **Nightly restaurant sales report for Khau Galli**: live and internal. Repository: [restaurant-nightly-sales-report](https://github.com/AyaanmandeliA/restaurant-nightly-sales-report), with outlet details and credentials removed.
 - **Letterhead generator**: a script that produces branded Word documents for the group from a config file. In use internally. Repository: [letterhead-generator](https://github.com/AyaanmandeliA/letterhead-generator).
 - **ACCA Performance Engine**: a feedback tool for ACCA practice answers. It is an invited beta, with a [public demo on fictional data](https://acca-demo.ayaanmandelia.com/).
