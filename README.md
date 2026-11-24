@@ -21,7 +21,7 @@ How I work: I set the requirements and check the results. AI tools write most of
 - **Nightly restaurant sales report for Khau Galli**: live and internal. Repository: [restaurant-nightly-sales-report](https://github.com/AyaanmandeliA/restaurant-nightly-sales-report), with outlet details and credentials removed.
 - **Letterhead generator**: a script that produces branded Word documents for the group from a config file. In use internally. Repository: [letterhead-generator](https://github.com/AyaanmandeliA/letterhead-generator).
 - **ACCA Performance Engine**: a feedback tool for ACCA practice answers. It is an invited beta, with a [public demo on fictional data](https://acca-demo.ayaanmandelia.com/).
-- **Personal AI agency** (repository `agency-desk`, private): a working personal system I brief through Discord for research, scripts and video edits. Still developing.
+- **Personal AI agency**: a working personal system I brief through Discord for research, scripts and video edits. Still developing. Repository: [personal-ai-agency](https://github.com/AyaanmandeliA/personal-ai-agency), the public cut of the tooling; the full working repository is private.
 
 More project repositories are being added. Some stay private because they hold business data.
 
